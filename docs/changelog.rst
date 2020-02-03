@@ -1,7 +1,10 @@
 ChangeLog
 =========
 
-0.13.1 (unreleased)
+0.13.2 (unreleased)
+-------------------
+
+0.13.1 (2020-03-02)
 -------------------
 
 - Fixing regexp for versioning
