@@ -4,6 +4,8 @@ ChangeLog
 0.13.1 (unreleased)
 -------------------
 
+- Fixing regexp for versioning
+
 0.13.0 (2020-03-02)
 -------------------
 
